@@ -1,1 +1,3 @@
-# Homework1
+# Homework4
+
+градиентный спуск
